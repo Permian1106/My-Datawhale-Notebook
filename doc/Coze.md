@@ -1,6 +1,6 @@
-教程内容：https://github.com/datawhalechina/coze-ai-assistant
-学习网站：https://www.datawhale.cn/learn/content/105/3259
-打卡链接：https://exn8g66dnwu.feishu.cn/share/base/form/shrcngnZZ5mTmLleoPX2TeNhq7d
+教程内容：https://github.com/datawhalechina/coze-ai-assistant<br>
+学习网站：https://www.datawhale.cn/learn/content/105/3259<br>
+打卡链接：https://exn8g66dnwu.feishu.cn/share/base/form/shrcngnZZ5mTmLleoPX2TeNhq7d<br>
 |任务信息 |DDL
 |:-----------| -------------
 |Task1-第一章(智能体与工作流)&第二章(Coze介绍)|6.17
@@ -50,16 +50,16 @@ PS.第一个案例来自教程，后面的案例来自唯庸的教程
 |--------|-----|--------|
 |![T1-Fig18](coze18.png)|![T1-Fig19](coze19.png)|![T1-Fig20](coze20.png)|
 
-2、为智能体配置多种扩展能力
-步骤1：更换模型（角色扮演Pro模型）
-步骤2：设置多样性与输入输出（角色扮演模型修改为“创意模式”和“携带上下文轮数”）
-步骤3：添加插件（BaiduSearch）
-步骤4：更换模型（工具调用模型）
-步骤5：配置卡片
-步骤6：配置触发器
-步骤7：添加知识库
-步骤8：长时记忆
-步骤9：设置开场白
+2、为智能体配置多种扩展能力<br>
+步骤1：更换模型（角色扮演Pro模型）<br>
+步骤2：设置多样性与输入输出（角色扮演模型修改为“创意模式”和“携带上下文轮数”）<br>
+步骤3：添加插件（BaiduSearch）<br>
+步骤4：更换模型（工具调用模型）<br>
+步骤5：配置卡片<br>
+步骤6：配置触发器<br>
+步骤7：添加知识库<br>
+步骤8：长时记忆<br>
+步骤9：设置开场白<br>
 步骤10：设置背景图片
 
 # Task3-零代码创建谷歌插件
