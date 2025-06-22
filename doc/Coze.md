@@ -25,17 +25,17 @@ PS1.指出一个疑惑：教程中关于智能体和工作流的优缺点是不�
 PS2.一点启发与思考：“用老板心态大胆想象一下，把你目前赚钱手段 AI 工作流化外包给 AI，你接下来需要做什么？”
 暂不头脑风暴老板的心态，思考一个问题，假如你实现了这个工作流并且它表现优异，该如何描述并写到简历中呢？结合最近看到的评论记录一下思路：（业务+技术角度）1.发现业务链路中的折损；2.形成优化方案；3.调研选型到Coze；4.利用模型能力；5.落地上线；6.回收数据；7.展示业务结果
 
-2、Coze推荐学习资源
-【图文教程篇】
-1、4万字教程-COZE/扣子与智能体入门（飞书文档） [飞行社](https://www.feishu.cn/community/article?id=7415932355996549148&%3Ffrom=ai_search&from=share).
-作者：唯庸 有作者的[优质案例教程](https://www.feishu.cn/community/article?id=7394346214239502338)
-2、coze官方教程（网页）扣子 - [文档中心](https://www.coze.cn/open/docs/guides/quickstart)
+2、Coze推荐学习资源<br>
+【图文教程篇】<br>
+1、4万字教程-COZE/扣子与智能体入门（飞书文档） [飞行社](https://www.feishu.cn/community/article?id=7415932355996549148&%3Ffrom=ai_search&from=share).<br>
+作者：唯庸 有作者的[优质案例教程](https://www.feishu.cn/community/article?id=7394346214239502338)<br>
+2、coze官方教程（网页）扣子 - [文档中心](https://www.coze.cn/open/docs/guides/quickstart)<br>
 
 【视频教程】
 官方教程：[扣子官方教程&宣传片（对外版）](https://bytedance.larkoffice.com/docx/MU2gdBhluo1aCJx9g5Sc1vwWnte)
 
-3、练手
-PS.第一个案例来自教程，后面的案例来自唯庸的教程
+3、练手<br>
+PS.第一个案例来自教程，后面的案例来自唯庸的教程<br>
 |智能体        |Prompt|Coze助手对话|编排作品|发布、使用作品|
 |--------|-----|--------|-----------------| ----|
 |[英语口语陪练搭子](https://www.coze.cn/store/agent/7518608658130190345?bot_id=true)|我想要一个英语口语陪练搭子|![T1-Fig2](coze2.png)|![T1-Fig3](coze3.png)|![T1-Fig4](coze4.png)
